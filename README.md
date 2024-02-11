@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luca Raffo
-- 👀 I’m interested in Mathematical Analysis and Machine Learning
+- 👀 I’m interested in Geometry Processing and Optimal Transport
 - 🌱 I’m currently studying Mathematical and Computing Sciences at Bocconi University
 - 📫 How to reach me: raffoluca18@gmail.com
 
