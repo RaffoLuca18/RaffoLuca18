@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luca Raffo
 - 👀 I’m interested in Mathematics and Data Science 🧮
-- 🌱 I’m currently studying Mathematical and Computing Sciences at Bocconi University
+- 🌱 I’m currently studying Mathematics at EPFL
 - 📫 How to reach me: raffoluca18@gmail.com
 
 <!---
